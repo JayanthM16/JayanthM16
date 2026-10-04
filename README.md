@@ -1,5 +1,5 @@
 # Jayanth Mekala
-
+ 
 **Data Engineer** | ETL/ELT pipelines | PySpark and Databricks | Azure, AWS and Snowflake
 
 M.S. in Data Science, University of Massachusetts Dartmouth (May 2026). I build batch and streaming data pipelines, lakehouse tables and the data quality checks around them, mostly for insurance and healthcare data.
